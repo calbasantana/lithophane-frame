@@ -1,7 +1,28 @@
 ![Image_1](https://github.com/user-attachments/assets/0662984f-5a15-4410-ab1b-d0cbf220f8ed)
 # Introduction
-I have gotten into creating custom PCBs recently for a lot of my projects and I wanted to craft a small PCB with my information instead of a business card. I also wanted to incorporate an NFC tag to include my contact info as a quick way of sharing it with others. For these reasons, this project exists.
-# EasyEDA
+Over the last couple of years, I've seen a lot of lithophane projects, so I thought it was finally time to make my own. It seems like a significantly better alternative to laser engraving images and some early testing indicated better imaging quality with similar times for engraving/3D printing. I decided to create a lithophane of my amazing cat, Juno, in her halloween costume.
+# Lithophane
+To create the lithophane itself, I went to the following website: https://www.lithophanemaker.com/
+ 
+I then scrolled down to "Flat Lithophane Maker." Here, I uploaded the file of my choosing, which was of my cat Juno in her halloween costume.
+## Lithophane Specifications
+I used the following settings:
+
+Frame Options: Frame Only \
+Crop: Yes \
+Lithophane Resolution (mm/pixel): 0.2 \
+Width (mm): 125 PLEASE KEEP THIS AT 125! \
+Height (mm): 65 PLEASE KEEP THIS AT 65! \
+Depth (mm): 7.5 \
+Base Height (mm): 7.5 \
+Overhang Angle (deg): 60 \
+Maximum Thicknesss (mm): 3.0 \
+Minimum Thickness (mm): 0.6 \
+Stand Thickness (mm): 2 \
+Stand Angle (degrees): 75
+
+Once I had dialed these settings in, I clicked on "Create .stl." I extracted the file downloaded and 3D-printed it.
+
 This project was created using EasyEDA, which is a PCB designing website. You can access it by going to: https://easyeda.com/
 
 I highly recommend creating an account with Google, so it is easier to access later. After you have logged in, click on "Online Editor(Std Edition)." My current project looks like this:
