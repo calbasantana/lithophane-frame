@@ -22,6 +22,22 @@ Stand Thickness (mm): 2 \
 Stand Angle (degrees): 75
 
 Once I had dialed these settings in, I clicked on "Create .stl." I extracted the file downloaded and 3D-printed it.
+# Specifications & Material(s)
+Below you can find the printer and material used.
+## 3D Printer
+ Original Prusa Mini+
+## Material(s)
+INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
+ – this can be purchased for $29.99 at the following link:
+https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+# Software
+ PrusaSlicer
+![Image_2](https://github.com/user-attachments/assets/a380fe96-3902-44ff-9e6b-a31b57fddf16)
+## Settings
+  Layer Height: .2mm \
+  Infill: 50% \
+  Supports: Everywhere \
+  Estimated Printing Time: 3 hour and 26 minutes - this will vary depending on your image
 
 This project was created using EasyEDA, which is a PCB designing website. You can access it by going to: https://easyeda.com/
 
