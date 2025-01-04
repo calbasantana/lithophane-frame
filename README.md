@@ -39,6 +39,8 @@ https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=s
   Supports: Everywhere \
   Estimated Printing Time: 3 hour and 26 minutes - this will vary depending on your image
 
+![Image_3](https://github.com/user-attachments/assets/f877f814-e1da-427f-9f4d-2340e025f6e6)
+
 This project was created using EasyEDA, which is a PCB designing website. You can access it by going to: https://easyeda.com/
 
 I highly recommend creating an account with Google, so it is easier to access later. After you have logged in, click on "Online Editor(Std Edition)." My current project looks like this:
