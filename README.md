@@ -66,7 +66,8 @@ https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=s
 ##### Software
  PrusaSlicer
 
-IMAGE
+![Image_3](https://github.com/user-attachments/assets/98cd882c-81f2-4bae-b0af-a57de792163b)
+
 ##### Settings
   Layer Height: .2mm \
   Infill: 25% \
