@@ -78,8 +78,9 @@ Here you can see the case from the back and how easy it is to access the USB-C p
 ![Image_4](https://github.com/user-attachments/assets/bbc913da-64b0-41fb-b0f1-fd6c91d37de3)
 
 # Tips
-You might want to get the surface-mounted components to fully complete this PCB, but it is not necessary. If you do, however, I recommend using a heat gun to help out with soldering the connections since it can be a bit tricky.
 
-You may have an issue ensuring that your phone can read the NFC tag. I recommend, for at least Android and the process is likely similar for iOS, going to Settings -> Connected Devices -> Connection Preferences -> NFC (and turn this on).
+The case is a little loose on the backside by default; this is so that it is easy to slide the light source in and out, but if you would like a tighter fit, you can add a few pieces of cut hardboard to the left side.
 
-People trying to read the NFC tag may also have issues if their phone has a thick case or if they are not tapping the correct part of the phone to the NFC tag. Removing the case and moving the phone around until it reads the tag helps with this, but this is easier for some than others.
+The case might look better with higher contrast, so printing it in black and the lithophane itself in white - which is better than the marble filament used here (in terms of picture quality). It might also look really awesome if the case was printed using a wood filament.
+
+For higher quality images, when slicing your lithophane, I recommend using a lower layer height (I've made a few lithophanes with .05mm layer height and those looked amazing).
