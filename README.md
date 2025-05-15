@@ -5,9 +5,9 @@ Over the last couple of years, I've seen a lot of lithophane projects, so I thou
 # Material(s)
 Lithophanes require a light source in order to work properly, so the following materials were purchased for this build.
 
-Weilisi 4000mAh Video Conference Lighting,Soft Light for Video Conferencing,Zoom Light for Laptop with Clip,Stepless Dimming Computer Light for Zoom Meetings,Webcam Light with 3 Modes,Laptop Light - this can be purchased for $19.99 at the following link: https://www.amazon.com/gp/product/B09C5XKW64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+* [4000mAh Soft Light ($19.99)](https://www.amazon.com/gp/product/B09C5XKW64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-Silkland USB C 90 Degree Right Angle Adapter [2 Pack, 240W 40Gbps] USB C Male to Female Adapter Extender Compatible with Thunderbolt 4 for Steam Deck, ROG Ally, MacBook, Switch, iPhone 16/15, Quest 3 - this can be purchased for $9.99 at the following link: https://www.amazon.com/gp/product/B0CNGFZ1JD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+* [Right Angle USB-C Adapter ($9.99)](https://www.amazon.com/gp/product/B0CNGFZ1JD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
 This project costs approximately $35, maybe $40 including taxes and other stuff.
 
@@ -40,9 +40,7 @@ Below you can find the printer and material used.
 ##### 3D Printer
  Original Prusa Mini+
 ##### Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link:
-https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3)
 ##### Software
  PrusaSlicer
 ![Image_2](https://github.com/user-attachments/assets/a380fe96-3902-44ff-9e6b-a31b57fddf16)
@@ -60,9 +58,7 @@ Below you can find the printer and material used.
 ##### 3D Printer
  Original Prusa Mini+
 ##### Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link:
-https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3)
 ##### Software
  PrusaSlicer
 
